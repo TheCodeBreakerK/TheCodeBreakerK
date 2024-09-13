@@ -1,18 +1,35 @@
-![banner](https://github.com/user-attachments/assets/a5231ef2-89e1-4be2-a184-07037eb8c9b4)
-
-Hi everyone! I'm exploring the intersection of technology and data, constantly learning and building projects that solve real-world problems. Currently, I'm diving into machine learning, data analysis, and artificial intelligence, and I love understanding this ever-evolving world.
-
-<p align="left">
-  <a href="www.linkedin.com/in/kelvin-moreira-5a281a282">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/your-link">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:kelvin20mso@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&size=25&pause=1000&color=F77D47&center=true&vCenter=true&multiline=true&width=450&height=100&lines=Hi%2C+I'm+Kelvin;A+Aspiring+Data+Scientist" alt="Typing SVG" />
   </a>
 </p>
+
+<div id="header" align="center">
+  <img src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif" width="200" height="250"/>
+  <br>
+  <br>
+  <div id="social-media">
+    <a href="https://www.linkedin.com/in/kelvin-moreira-5a281a282/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://instagram.com/your-link">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="mailto:kelvin20mso@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <br>
+    <a href="">
+      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
+    </a>
+  </div>
+</div>
+<br>
+
+<p>
+Hi everyone! I'm exploring this universe of technology and data, constantly learning and building projects that solve real-world problems. Currently, I'm diving into machine learning, data analysis, and artificial intelligence, and I love understanding this ever-evolving world.
+</p>
+
 
 ---
 
