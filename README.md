@@ -30,7 +30,7 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <br/>
-    <a href="https://www.hackerrank.com/profile/kelvin20mso">
+    <a href="https://www.hackerrank.com/profile/TheCodeBreakerK">
       <!-- HackerRank Badge -->
       <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
     </a>
@@ -177,9 +177,7 @@
     <!-- GitHub Stats (Left) displays general GitHub stats (e.g., contributions, stars, forks) -->
     <img src="https://github-readme-stats.vercel.app/api?username=TheCodeBreakerK&show_icons=true&theme=dracula&border_radius=5.0&hide_border=true" alt="My GitHub stats" height="215" />
     <!-- Top Languages (Right) shows the most frequently used programming languages in user's repos -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodeBreakerK&layout=donut&theme=dracula&border_radius=5.0&hide_border=true&margin-w=35" alt="My Top Languages" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodeBreakerK&layout=donut&theme=dracula&border_radius=5.0&hide_border=true" alt="My Top Languages" />
   </p>
   
   <br/>
