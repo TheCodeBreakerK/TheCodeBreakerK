@@ -10,7 +10,7 @@
 
 <!-- Header Section -->
 <div id="header" align="center">
-  <!-- Gif of Dark Souls Bonfire -->
+  <!-- Gif of Dark Souls Bonfire (https://tenor.com/pt-BR/view/dark-souls-bonfire-gif-20055180) -->
   <img src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif" width="200" height="250"/>
   
   <br/><br/>
@@ -21,7 +21,7 @@
       <!-- LinkedIn Badge -->
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://instagram.com/your-link">
+    <a href="#">
       <!-- Instagram Badge -->
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
@@ -30,7 +30,7 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <br/>
-    <a href="">
+    <a href="https://www.hackerrank.com/profile/kelvin20mso">
       <!-- HackerRank Badge -->
       <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
     </a>
@@ -40,13 +40,15 @@
 <br/><br/>
 
 <!-- GIF and Intro Text -->
-<!-- Gif of Solaire of Astora -->
-<img src="https://i.imgur.com/AflEm7k.gif" width="86" height="86" align="left">
-<!-- Introductory Text -->
-<p>
-  I’m an explorer of the vast universe that data science offers, continuously learning, thinking, and building projects to tackle real-world challenges. 
-  Currently, I’m diving deep into machine learning, data analysis, and artificial intelligence, and I’m passionate about unraveling the complexities of this ever-evolving field.
-</p>
+<div align="center">
+  <!-- Gif of Solaire of Astora (https://imgur.com/AflEm7k) -->
+  <img align="left" src="https://i.imgur.com/AflEm7k.gif" width="86" height="86" align="left">
+  <!-- Introductory Text -->
+  <p align="left">
+    I’m an explorer of the vast universe that data science offers, continuously learning, thinking, and building projects to tackle real-world challenges. 
+    Currently, I’m diving deep into machine learning, data analysis, and artificial intelligence, and I’m passionate about unraveling the complexities of this ever-evolving field.
+  </p>
+</div>
 
 <!-- Separator -->
 #
@@ -219,7 +221,9 @@
 <details open>
   <!-- Summary header for GitHub Trophies section -->
   <summary><h2>🏆 My Trophies</h2></summary>
+  
   <br/>
+  
   <!-- GitHub Trophies Section -->
   <p align="left">
     <!-- Trophies link displays user's GitHub achievements as trophies -->
@@ -231,7 +235,13 @@
 #
 
 <details open>
+  <!-- Summary header for GitHub Repositories section -->
   <summary><h2>📂 Repositories</h2></summary>
-
   
+  <br/>
+  
+  <p align="left">
+    <a href="https://github.com/TheCodeBreakerK/TheCodeBreakerK"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=TheCodeBreakerK&repo=TheCodeBreakerK&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="TheCodeBreakerK"></a>
+    <a href="https://github.com/TheCodeBreakerK/c-desafio-planilha"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=TheCodeBreakerK&repo=c-desafio-planilha&theme=dracula&hide_border=true&icon_color=F8D866&show_icons=false" alt="c-desafio-planilha"></a>
+  </p>
 </details>
