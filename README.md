@@ -210,8 +210,8 @@
       <td>🛠️ Reviewed code for <a href="https://github.com/TheCodeBreakerK/Project-Delta/pull/15">#15</a> in <a href="https://github.com/TheCodeBreakerK/Project-Delta">Project-Delta</a></td>
     </tr>
   </table>
-<!--END_SECTION:activity-->
-
+  <!--END_SECTION:activity-->
+</details>
 
 <!-- Separator -->
 #
