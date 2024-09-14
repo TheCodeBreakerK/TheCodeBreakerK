@@ -175,9 +175,9 @@
   <!-- GitHub Stats and Top Languages Section -->
   <p align="left">
     <!-- GitHub Stats (Left) displays general GitHub stats (e.g., contributions, stars, forks) -->
-    <img src="https://github-readme-stats.vercel.app/api?username=TheCodeBreakerK&show_icons=true&theme=dracula&border_radius=5.0&hide_border=true" alt="My GitHub stats" height="215" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TheCodeBreakerK&show_icons=true&theme=dracula&border_radius=5.0&hide_border=true" alt="My GitHub stats" height="192px" />
     <!-- Top Languages (Right) shows the most frequently used programming languages in user's repos -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodeBreakerK&layout=donut&theme=dracula&border_radius=5.0&hide_border=true" alt="My Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodeBreakerK&layout=donut&theme=dracula&border_radius=5.0&hide_border=true" alt="My Top Languages" height="192px" />
   </p>
   
   <br/>
@@ -191,27 +191,27 @@
 
   <br/>
   
-  ### :zap: Recent Activities
+  ### ⚡ Recent Activities
   <!--START_SECTION:activity-->
   <table>
     <tr>
-      <td> Some Text <a href="">#</a> in <a href="">Something</a></td>
+      <td>✨ Pushed new commits to <a href="https://github.com/TheCodeBreakerK/Project-Alpha">Project-Alpha</a></td>
     </tr>
     <tr>
-      <td> Some Text <a href="">#</a> in <a href="">Something</a></td>
+      <td>🔍 Opened a new issue in <a href="https://github.com/TheCodeBreakerK/Project-Beta">Project-Beta</a></td>
     </tr>
     <tr>
-      <td> Some Text <a href="">#</a> in <a href="">Something</a></td>
+      <td>🚀 Merged pull request <a href="https://github.com/TheCodeBreakerK/Project-Gamma/pull/42">#42</a> in <a href="https://github.com/TheCodeBreakerK/Project-Gamma">Project-Gamma</a></td>
     </tr>
     <tr>
-      <td> Some Text <a href="">#</a> in <a href="">Something</a></td>
+      <td>📄 Created a new repository <a href="https://github.com/TheCodeBreakerK/New-Repo">New-Repo</a></td>
     </tr>
     <tr>
-      <td> Some Text <a href="">#</a> in <a href="">Something</a></td>
+      <td>🛠️ Reviewed code for <a href="https://github.com/TheCodeBreakerK/Project-Delta/pull/15">#15</a> in <a href="https://github.com/TheCodeBreakerK/Project-Delta">Project-Delta</a></td>
     </tr>
   </table>
-  <!--END_SECTION:activity-->
-</details>
+<!--END_SECTION:activity-->
+
 
 <!-- Separator -->
 #
