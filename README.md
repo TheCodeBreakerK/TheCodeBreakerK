@@ -40,15 +40,22 @@
 <br/><br/>
 
 <!-- GIF and Intro Text -->
-<div align="center">
-  <!-- Gif of Solaire of Astora (https://imgur.com/AflEm7k) -->
-  <img align="left" src="https://i.imgur.com/AflEm7k.gif" width="86" height="86" align="left">
-  <!-- Introductory Text -->
-  <p align="left">
-    I’m an explorer of the vast universe that data science offers, continuously learning, thinking, and building projects to tackle real-world challenges. 
-    Currently, I’m diving deep into machine learning, data analysis, and artificial intelligence, and I’m passionate about unraveling the complexities of this ever-evolving field.
-  </p>
-</div>
+<table align="center">
+  <tr>
+    <!-- Gif of Solaire of Astora -->
+    <td width="100">
+      <img src="https://i.imgur.com/AflEm7k.gif" width="156" height="156">
+    </td>
+    <!-- Introductory Text -->
+    <td>
+      <p align="left">
+        I’m an explorer of the vast universe that data science offers, continuously learning, thinking, and building projects to tackle real-world challenges. 
+        Currently, I’m diving deep into machine learning, data analysis, and artificial intelligence, and I’m passionate about unraveling the complexities of this ever-evolving field.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 <!-- Separator -->
 #
@@ -193,23 +200,6 @@
   
   ### ⚡ Recent Activities
   <!--START_SECTION:activity-->
-  <table>
-    <tr>
-      <td>✨ Pushed new commits to <a href="https://github.com/TheCodeBreakerK/Project-Alpha">Project-Alpha</a></td>
-    </tr>
-    <tr>
-      <td>🔍 Opened a new issue in <a href="https://github.com/TheCodeBreakerK/Project-Beta">Project-Beta</a></td>
-    </tr>
-    <tr>
-      <td>🚀 Merged pull request <a href="https://github.com/TheCodeBreakerK/Project-Gamma/pull/42">#42</a> in <a href="https://github.com/TheCodeBreakerK/Project-Gamma">Project-Gamma</a></td>
-    </tr>
-    <tr>
-      <td>📄 Created a new repository <a href="https://github.com/TheCodeBreakerK/New-Repo">New-Repo</a></td>
-    </tr>
-    <tr>
-      <td>🛠️ Reviewed code for <a href="https://github.com/TheCodeBreakerK/Project-Delta/pull/15">#15</a> in <a href="https://github.com/TheCodeBreakerK/Project-Delta">Project-Delta</a></td>
-    </tr>
-  </table>
   <!--END_SECTION:activity-->
 </details>
 
