@@ -5,14 +5,12 @@
     <img src="https://github.com/user-attachments/assets/3f1d92be-e474-4308-a817-810906a76739" alt="TheCodeBreakerK"/>
   </a>
 </p>
-
 <br/>
 
 <!-- Header Section -->
 <div id="header" align="center">
   <!-- Gif of Dark Souls Bonfire (https://tenor.com/pt-BR/view/dark-souls-bonfire-gif-20055180) -->
-  <img src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif" width="200" height="250"/>
-  
+  <img src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif" width="200" height="250" />
   <br/><br/>
 
   <!-- Social Media Icons -->
@@ -36,26 +34,31 @@
     </a>
   </div>
 </div>
-
 <br/><br/>
 
-<!-- GIF and Intro Text -->
-<table align="center">
-  <tr>
-    <!-- Gif of Solaire of Astora -->
-    <td width="100">
-      <img src="https://i.imgur.com/AflEm7k.gif" width="156" height="156">
-    </td>
-    <!-- Introductory Text -->
-    <td>
-      <p align="left">
-        I’m an explorer of the vast universe that data science offers, continuously learning, thinking, and building projects to tackle real-world challenges. 
-        Currently, I’m diving deep into machine learning, data analysis, and artificial intelligence, and I’m passionate about unraveling the complexities of this ever-evolving field.
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- About Me - Python Class -->
+### 📝 About Me 
+<br/>
 
+```python
+class AboutMe:
+    def __init__(self, name: str) -> None:
+        self.name = name
+        self.about: str = (
+            "I’m an explorer of the vast universe that data science offers, "
+            "continuously learning, thinking, and building projects to tackle "
+            "real-world challenges. Currently, I’m diving deep into machine learning, "
+            "data analysis, and artificial intelligence, and I’m passionate about "
+            "unraveling the complexities of this ever-evolving field."
+        )
+    
+    def introduce(self) -> None:
+        print(f"Hello, my name is {self.name}. {self.about}")
+
+if __name__ == "__main__":
+    about_me = AboutMe("Kelvin")
+    about_me.introduce()
+```
 
 <!-- Separator -->
 #
