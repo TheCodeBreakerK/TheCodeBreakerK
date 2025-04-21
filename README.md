@@ -88,14 +88,12 @@ if __name__ == "__main__":
   ### 🖥️ Programming Languages
   <table>
     <tr>
-      <td align="center"><img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></td>
+      <td align="center"><img alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/></td>
       <td align="center"><img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></td>
-      <td align="center"><img alt="R" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/></td>
     </tr>
     <tr>
-      <td align="center"><b>C</b></td>
+      <td align="center"><b>PHP</b></td>
       <td align="center"><b>Python</b></td>
-      <td align="center"><b>R</b></td>
     </tr>
   </table>
 
@@ -103,32 +101,12 @@ if __name__ == "__main__":
   ### 📚 Frameworks and Libraries
   <table>
     <tr>
-      <td align="center"><img alt="Flask" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/></td>
-      <td align="center"><img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/></td>
-      <td align="center"><img alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/></td>
-      <td align="center"><img alt="Plotly" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg"/></td>
-      <td align="center"><img alt="Matplotlib" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/></td>
+      <td align="center"><img alt="FastAPI" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/></td>
+      <td align="center"><img alt="Laravel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/></td>
     </tr>
     <tr>
-      <td align="center"><b>Flask</b></td>
-      <td align="center"><b>Pandas</b></td>
-      <td align="center"><b>Numpy</b></td>
-      <td align="center"><b>Plotly</b></td>
-      <td align="center"><b>Matplotlib</b></td>
-    </tr>
-    <tr>
-      <td align="center"><img alt="Tensorflow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/></td>
-      <td align="center"><img alt="Pytorch" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/></td>
-      <td align="center"><img alt="Scikit-learn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/></td>
-      <td align="center"><img alt="Keras" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg"/></td>
-      <td align="center"><img alt="OpenCV" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Tensorflow</b></td>
-      <td align="center"><b>Pytorch</b></td>
-      <td align="center"><b>Scikit-learn</b></td>
-      <td align="center"><b>Keras</b></td>
-      <td align="center"><b>OpenCV</b></td>
+      <td align="center"><b>FastAPI</b></td>
+      <td align="center"><b>Laravel</b></td>
     </tr>
   </table>
 
@@ -136,15 +114,11 @@ if __name__ == "__main__":
   ### 🛠️ Software and Tools
   <table>
     <tr>
-      <td align="center"><img alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/></td>
-      <td align="center"><img alt="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"/></td>
       <td align="center"><img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></td>
       <td align="center"><img alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></td>
       <td align="center"><img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></td>
     </tr>
     <tr>
-      <td align="center"><b>Jupyter</b></td>
-      <td align="center"><b>Anaconda</b></td>
       <td align="center"><b>Git</b></td>
       <td align="center"><b>GitHub</b></td>
       <td align="center"><b>Linux</b></td>
